@@ -1,0 +1,23 @@
+* Lutfen Bir Pizza Tabanı seciniz:
+(* Please Choose A Pizza Base:)
+
+1: Klasik
+(Classic)
+2: Margarita
+(Margherita)
+3: Turk Pizza
+(Turkish Pizza)
+4: Sade Pizza
+(Dominos Pizza)
+
+* ve sececeginiz sos:
+(* and the sauce of your choice:)
+
+11: Zeytin (Olive)
+12: Mantarlar (Mushrooms)
+13: Keci Peyniri (Goat Cheese)
+14: Et (Meat)
+15: Sogan (Onion)
+16: Misir (Corn)
+
+* Tesekkur ederiz! (* Thank you!)
